@@ -11,4 +11,4 @@ Tasks for project:
 * Programmatically clean some of the problems within the data set. 
 * Provide additional ideas for the data cleanup process.
 
-Final write up: [1_Project_summary.html](http://htmlpreview.github.io/?https://raw.githubusercontent.com/emilyhazelton/udacity-2-data-wrangling/master/1_Project_summary.html)
+Final write up: [1_Project_summary.html](http://htmlpreview.github.io/?https://raw.githubusercontent.com/emilyhazelton/udacity-2-data-wrangling/master/1_Project_Summary.html)
